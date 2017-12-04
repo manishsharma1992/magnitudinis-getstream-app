@@ -1,0 +1,1 @@
+# magnitudinis-getstream-app
